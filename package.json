@@ -1,21 +1,19 @@
 {
-    "name": "SUMOKOIN",
+    "name": "SUMOKOIN-wallet",
     "version": "1.0.0",
     "description": "SUMOKOIN Wallet",
     "main": "main.js",
     "scripts": {
         "start": "electron ."
     },
-    "repository": "https://github.com/electron/electron-quick-start",
+    "repository": "https://github.com/phenixrizen/SUMOKOINGUIWallet",
     "keywords": [
+        "sumokoin",
         "Electron",
-        "quick",
-        "start",
-        "tutorial",
-        "demo"
+        "wallet"
     ],
-    "author": "GitHub",
-    "license": "CC0-1.0",
+    "author": "phenixrizen@gmail.com",
+    "license": "BSD3",
     "devDependencies": {
         "electron": "~1.7.8"
     }
