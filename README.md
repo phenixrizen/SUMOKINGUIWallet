@@ -8,7 +8,7 @@
 
 After struggling to get the SUMOKOIN GUI Wallet to run properly on Windows and realizing they are using PySide.
 
-I'm rewriting the SUMOKOIN GUI Wallet on the Electron framework.
+I'm rewriting the SUMOKOIN GUI Wallet on the [Electron Framework](https://electronjs.org/).
 
 
 ## To Use
