@@ -2,7 +2,7 @@
 
 ## Official Wallet 
 
-[SUMOKOIN Official Wallet] (https://github.com/sumoprojects/SumoGUIWallet.git)
+[SUMOKOIN Official Wallet](https://github.com/sumoprojects/SumoGUIWallet.git)
 
 ## Work In Progress
 
